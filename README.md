@@ -8,7 +8,7 @@
 
 <p align="center">
   <b>B.Tech CSE (Artificial Intelligence)</b><br/>
-  AI • Computer Vision • Full-Stack Development
+  AI • Full-Stack Development
 </p>
 
 <p align="center">
@@ -36,9 +36,9 @@
 ## 😊 About Me
 
 - 🎓 CSE student specializing in **Artificial Intelligence**
-- 🤖 Interested in **AI, Machine Learning & Computer Vision**
+- 🤖 Interested in **AI, Machine Learning**
 - 💻 Full-Stack Web Developer (React, Node.js, MongoDB)
-- 🎮 Love building **game/anime-inspired interactive web apps**
+- 🎮 Love building **interactive web apps**
 - 🎧 Enjoy exploring **audio-driven and motion-based UI**
 - 🤝 Open to collaboration on meaningful tech projects
 
@@ -69,7 +69,7 @@
 ## 🛠️ Tech Stack
 
 **Languages:**  
-Python • Java • JavaScript • C++ • SQL  
+Python • Java • JavaScript • SQL  
 
 **Frontend:**  
 HTML • CSS • React.js • Tailwind CSS  
@@ -78,10 +78,10 @@ HTML • CSS • React.js • Tailwind CSS
 Node.js • Express.js • REST APIs  
 
 **AI / CV:**  
-Computer Vision • MediaPipe • OpenCV • NLP Basics  
+MediaPipe • OpenCV • NLP Basics  
 
 **Tools:**  
-Git • GitHub • VS Code • Vite • npm  
+Git • GitHub • VS Code • npm  
 
 ---
 
